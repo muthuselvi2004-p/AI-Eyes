@@ -1,0 +1,9 @@
+
+ai_eyes_env/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+face_database.pkl
+known_faces/
